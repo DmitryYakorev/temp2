@@ -16,4 +16,4 @@
 
    7. High education. - St-Petersburg Technical University,Experimental Nuclear Physics.
 
-   8.English. Fluently(acording test - B1).
+   8.English. Fluently(according test - B1).
