@@ -12,6 +12,8 @@
    5. Code example. [task 3](https://github.com/DmitryYakorev/portfolio)
 
 
-   6.working at CERN(many times,about 10,2001-2006),Texas A&M University(2006-2007),Dresden HRZD(2007-2011).Since 2011 up to now does not work,because an invalid(cannot walk & talk).
-High education - St-Petersburg Technical University,Nuclear Physics.
-English - fluently -o-
+   6.Experience. Working at CERN(many times,about 10,2001-2006),Texas A&M University(2006-2007),Dresden HRZD(2007-2011).Since 2011 up to now does not work,because an invalid(cannot walk & talk).
+
+   7. High education. - St-Petersburg Technical University,Experimental Nuclear Physics.
+
+   8.English. Fluently(acording test - B1).
